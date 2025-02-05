@@ -40,7 +40,13 @@ printf("O segundo item do vetor é: %d\n", numerosPares[1]);
 
 ### 🧑🏼‍💻 Exemplo 01 : 
 
-Crie um algoritmo em C que utilize um array para armazenar as notas de 4 alunos. O programa deve solicitar ao usuário que digite a nota de cada aluno e, em seguida, armazená-la no array. Ao final, o programa deve exibir as notas de todos os alunos. **Desafio**: Aumentar para 100 alunos:
+Crie um algoritmo em C que utilize um vetor para armazenar as notas de 4 alunos. O programa deve solicitar ao usuário que digite a nota de cada aluno e, em seguida, armazená-la no vetor. Ao final, o programa deve exibir as notas de todos os alunos. **Desafio**: Aumentar para 100 alunos:
+
+
+### 🧑🏼‍💻 Exemplo 02 :
+
+Crie um algoritmo que leia do teclado seis valores inteiros e em seguida mostra na
+tela os valores lidos
 
 
 ## 🔢 Arrays Multidimensionais (Matrizes)
@@ -58,7 +64,7 @@ tipoArray[linha][coluna]
 ### 🏁 Inicializando  uma Matriz :
 
 ```
-int numerosPares[2][2] = {'2', '4', '6', '8'}
+int numerosPares[2][2] = {{2,4},{6,8};
 ```
 
 
