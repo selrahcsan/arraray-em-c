@@ -46,7 +46,13 @@ Crie um algoritmo em C que utilize um vetor para armazenar as notas de 4 alunos.
 ### 🧑🏼‍💻 Exemplo 02 :
 
 Crie um algoritmo que leia do teclado seis valores inteiros e em seguida mostra na
-tela os valores lidos
+tela os valores lidos.
+
+## 🤯 Desafio 01 : E como seriam com palavras ?
+
+Crie um algoritmo que leia do teclado seis letras e em seguida mostra na
+tela os valores lidos.
+
 
 
 ## 🔢 Arrays Multidimensionais (Matrizes)
