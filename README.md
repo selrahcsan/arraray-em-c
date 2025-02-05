@@ -17,23 +17,21 @@ Um vetor é um conjunto de variáveis do mesmo tipo, usando o mesmo nome. São o
 ### 🗃️ Sintaxe:
 
 ```
-	tipoDadoArray[tamanho]
+tipoDadoArray[tamanho]
 ```
 
 
 ### 📢 Declarando de um Vetor :
 
 ```
-	int numerosPares[4] = {'2', '4', '6', '8'}
+int numerosPares[4] = {'2', '4', '6', '8'}
 ```
 
 ## Vamos Praticar ?
 
 ### 🧑🏼‍💻 Exemplo 01 : 
 
-Crie um algoritmo em C que utilize um array para armazenar as notas de 4 alunos. O programa deve solicitar ao usuário que digite a nota de cada aluno e, em seguida, armazená-la no array. Ao final, o programa deve exibir as notas de todos os alunos. **Desafio**: Aumentar o limite para 100 alunos:
-
-
+Crie um algoritmo em C que utilize um array para armazenar as notas de 4 alunos. O programa deve solicitar ao usuário que digite a nota de cada aluno e, em seguida, armazená-la no array. Ao final, o programa deve exibir as notas de todos os alunos. **Desafio**: Aumentar para 100 alunos:
 
 
 ## 🔢 Arrays Multidimensionais (Matrizes)
@@ -44,14 +42,14 @@ São arrays que possuem mais de uma dimensão, como matrizes com mais de 2 dimen
 ### 🗄️ Sintaxe:
 
 ```
-	tipoArray[linha][coluna]
+tipoArray[linha][coluna]
 ```
 
 
 ### 📢 Declarando uma Matriz :
 
 ```
-	int numerosPares[2][2] = {'2', '4', '6', '8'}
+int numerosPares[2][2] = {'2', '4', '6', '8'}
 ```
 
 
