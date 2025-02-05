@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int notas[4 ];
+  int notas[4];
   int contador;
 
   for (contador = 0; contador < 4; contador++) {
