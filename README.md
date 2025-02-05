@@ -1,7 +1,7 @@
 # 🗂️ Arrays em C 
 
 ## 🤔 O que é ?
-Array é uma estrutura de dados fundamental usada para armazenar uma coleção de elementos do mesmo tipo, como números inteiros, números de ponto flutuante, caracteres ou até mesmo outros arrays. Cada elemento em um array é identificado por um índice numérico, permitindo acesso rápido e eficiente a qualquer elemento na coleção.
+Array é uma estrutura de dados fundamental usada para armazenar uma coleção de elementos do mesmo tipo, como números inteiros, ponteiros, caracteres ou até mesmo outros arrays. Cada elemento em um array é identificado por um índice numérico, permitindo acesso rápido e eficiente a qualquer elemento na coleção.
 
 
 ### ✏️ Tipos de Arrays: 
@@ -21,13 +21,22 @@ tipoDadoArray[tamanho]
 ```
 
 
-### 📢 Declarando de um Vetor :
+### 🏁 Inicializado de um Vetor :
 
 ```
-int numerosPares[4] = {'2', '4', '6', '8'}
+int numerosPares[4] = {2,4,6,8};
 ```
 
-## Vamos Praticar ?
+
+### 🎲 Acessando o dado de um vetor:
+
+```
+printf("O segundo item do vetor é: %d\n", numerosPares[1]);
+```
+
+### 😱 *No trecho de código acima,é mostrado o segundo item do vetor, mas por que é no vetor é buscada a posição  com índice 1 (numerosPares[1]) ?*
+
+## ⏱️ Vamos Praticar ?
 
 ### 🧑🏼‍💻 Exemplo 01 : 
 
@@ -46,13 +55,11 @@ tipoArray[linha][coluna]
 ```
 
 
-### 📢 Declarando uma Matriz :
+### 🏁 Inicializando  uma Matriz :
 
 ```
 int numerosPares[2][2] = {'2', '4', '6', '8'}
 ```
-
-
 
 
 
