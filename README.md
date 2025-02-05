@@ -90,6 +90,13 @@ Crie um algoritmo em C, usando uma matriz, para o cadastro da matricula e nota d
 
 ### 🧑🏼‍💻 Exemplo 04 :
 
+Crie um algoritmo que separe os numeros pares e impares até 10.
+
+
+
+
+
+
 
 
 
