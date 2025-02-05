@@ -28,7 +28,7 @@ int numerosPares[4] = {2,4,6,8};
 ```
 
 
-### 🎲 Acessando o dado de um vetor:
+### 🎲 Acessando dados de um vetor:
 
 ```
 printf("O segundo item do vetor é: %d\n", numerosPares[1]);
