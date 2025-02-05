@@ -98,6 +98,11 @@ Crie um algoritmo que separe os numeros pares e impares até 10.
 Crie um algoritmo em C, onde é possivel o usuário determinar o tamanho da matriz, depois represente a matrix em tela usando 0.
 
 
+# 🖥️ Programas Utilizados :
+
+- Gnome Builder - IDE;
+- Gosthwriter - Editor de Markdown
+- Characters - Utilitário de Emojis
 
 
 
