@@ -93,6 +93,10 @@ Crie um algoritmo em C, usando uma matriz, para o cadastro da matricula e nota d
 Crie um algoritmo que separe os numeros pares e impares até 10.
 
 
+## 🤯 Desafio 02 : 
+
+Crie um algoritmo em C, onde é possivel o usuário determinar o tamanho da matriz, depois represente a matrix em tela usando 0.
+
 
 
 
