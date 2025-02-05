@@ -7,7 +7,7 @@ Array é uma estrutura de dados fundamental usada para armazenar uma coleção d
 ### ✏️ Tipos de Arrays: 
 
 - Arrays Unidimensionais -> Vetores
-- Arrays Multidimensionais ->Matrizes
+- Arrays Multidimensionais -> Matrizes
 
 
 ## 1️⃣2️⃣3️⃣4️⃣ Arrays Unidimensionais (Vetores)
@@ -72,6 +72,24 @@ tipoArray[linha][coluna]
 ```
 int numerosPares[2][2] = {{2,4},{6,8};
 ```
+
+
+### Acessando dados de uma Matriz
+
+```
+printf("Na linha 1 e coluna 2, se encontra o numero par: %d\n", numerosPares[1][2]);
+```
+
+## ⏱️ Vamos Praticar ?
+
+
+### 🧑🏼‍💻 Exemplo 03 :
+
+Crie um algoritmo em C, usando uma matriz, para o cadastro da matricula e nota de 10 anos e em seguida mostre na tela.
+
+
+### 🧑🏼‍💻 Exemplo 04 :
+
 
 
 
